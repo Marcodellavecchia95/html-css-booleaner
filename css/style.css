@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: aqua;
+  background-image: url(../img/pattern.png);
+}
+
+.white-logo {
+  width: 150px;
+  padding-left: 40px;
+  padding-top: 30px;
+}
