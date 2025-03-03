@@ -12,3 +12,24 @@ header {
   padding-left: 40px;
   padding-top: 30px;
 }
+
+h1 {
+  padding-left: 10px;
+}
+
+address {
+  font-size: 120%;
+  font-style: normal;
+  color: gray;
+}
+
+a {
+  text-decoration: none;
+  color: aqua;
+}
+
+.date {
+  font-size: 80%;
+  font-style: normal;
+  color: gray;
+}
